@@ -1,0 +1,9 @@
+tensorflow-macos
+tensorflow-metal
+pandas
+numpy
+scikit-learn
+matplotlib
+streamlit
+tensorboard
+keras
